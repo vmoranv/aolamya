@@ -1,0 +1,6 @@
+
+|#send={"id":42,"cmd":"AMRZ250103_2","param":{"index":0,"tab":0}}|
+|#send={"id":42,"cmd":"AMRZ250103_2","param":{"index":1,"tab":0}}|
+|#send={"id":42,"cmd":"AMRZ250103_2","param":{"index":2,"tab":0}}|
+|#send={"id":42,"cmd":"AMRZ250103_3","param":{"tab":0}}|
+|#send={"id":42,"cmd":"AMRZ250103_3","param":{"tab":0}}

@@ -1,0 +1,5 @@
+|#send={"id":4,"cmd":"takeAwawyAccount","param":{"ai":0}}
+|#send={"id":4,"cmd":"takeAwawyAccount","param":{"ai":1}}
+|#send={"id":4,"cmd":"takeAwawyAccount","param":{"ai":2}}
+|#send={"id":4,"cmd":"takeAwawyAccount","param":{"ai":3}}
+|#send={"id":4,"cmd":"takeAwawyAccount","param":{"ai":4}}

@@ -1,0 +1,3 @@
+|#send={"cmd":"DL241213_enter","id":42,"param":{}}|
+|#send={"cmd":"74_1","id":42,"param":{"eventId":43109}}|
+|#send={"cmd":"DL241213_settle","id":42,"param":{"num":10}}

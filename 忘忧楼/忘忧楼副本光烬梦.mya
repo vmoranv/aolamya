@@ -1,0 +1,14 @@
+||#send={"id":15,"param":{"ft":0,"_cmd":"54_22","handler":"MB240112","type":99},"cmd":"54_22"}|
+#time=2000|
+||#send={"cmd":"1401","id":13,"param":{"tarPSId":0,"ussi":-1,"tarSId":0,"isAuto":false,"reqPSId":0,"turn":0,"skillId":430012}}|
+#time=2000|
+||#send={"cmd":"1401","id":13,"param":{"tarPSId":0,"ussi":-1,"tarSId":0,"isAuto":false,"reqPSId":0,"turn":0,"skillId":430007}}|
+#time=2000|
+||#send={"cmd":"1401","id":13,"param":{"tarPSId":0,"ussi":-1,"tarSId":11,"isAuto":false,"reqPSId":1,"turn":0,"skillId":36705}}|
+#time=2000|
+||#send={"cmd":"1401","id":13,"param":{"tarPSId":0,"ussi":-1,"tarSId":0,"isAuto":false,"reqPSId":0,"turn":1,"skillId":430012}}|
+#time=2000|
+||#send={"cmd":"1401","id":13,"param":{"tarPSId":0,"ussi":-1,"tarSId":0,"isAuto":false,"reqPSId":0,"turn":1,"skillId":430007}}|
+#time=2000|
+||#send={"cmd":"1401","id":13,"param":{"tarPSId":0,"ussi":-1,"tarSId":11,"isAuto":false,"reqPSId":1,"turn":1,"skillId":36705}}|
+||#wait

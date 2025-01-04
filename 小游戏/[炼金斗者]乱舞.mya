@@ -1,0 +1,5 @@
+|#send={"cmd":"LuanWu180601_2","id":42,"param":{"index":1,"num":0,"pass":true}}|
+|#send={"cmd":"LuanWu180601_1","id":42,"param":{}}|
+|#send={"id":42,"cmd":"74_1","param":{"eventId":26947}}|
+|#send={"id":42,"cmd":"LuanWu180601_2","param":{"pass":true,"index":0,"num":0}}|
+|#send={"id":42,"cmd":"LuanWu180601_1","param":{}}|

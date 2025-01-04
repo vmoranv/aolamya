@@ -1,0 +1,2 @@
+|#send={"id":42,"param":{"cp":0},"cmd":"TGB221202_enter"}|
+|#send={"id":42,"param":{"pass":1},"cmd":"TGB221202_settle"}

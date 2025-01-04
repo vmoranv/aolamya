@@ -1,0 +1,5 @@
+|#send={"id":13,"cmd":"1404","param":{"turn":0,"reqPSId":0}}|
+|#send={"id":15,"cmd":"54_22","param":{"isHurtFight":false,"handler":"FTC231229","bi":7,"type":99}}||
+|#send={"id":13,"cmd":"1212","param":{}}|
+|#send={"id":13,"cmd":"1404","param":{"turn":0,"reqPSId":0}}|
+|#time=5000
