@@ -1,8 +1,0 @@
-
-|#send={"param":{"i":0},"id":42,"cmd":"ATR241227_1"}|
-|#send={"param":{"i":1},"id":42,"cmd":"ATR241227_1"}|
-|#send={"param":{"i":2},"id":42,"cmd":"ATR241227_1"}|
-|#send={"param":{"i":3},"id":42,"cmd":"ATR241227_1"}|
-|#send={"param":{"i":4},"id":42,"cmd":"ATR241227_1"}|
-|#send={"param":{"i":5},"id":42,"cmd":"ATR241227_1"}|
-|#send={"param":{},"id":42,"cmd":"ATR241227_2"}|#send={"param":{},"id":42,"cmd":"ATR241227_2"}
