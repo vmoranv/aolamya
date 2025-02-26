@@ -1,0 +1,11 @@
+|#send={"id":42,"cmd":"ALO250221_1","param":{}}|
+|#send={"cmd":"QLSS250221_w","id":42,"param":{}}|
+|#time=601000|
+
+|#send={"cmd":"QLSS250221_w","id":42,"param":{}}|
+|#time=3001000|
+
+|#send={"cmd":"QLSS250221_w","id":42,"param":{}}|
+|#time=3001000|
+
+|#send={"cmd":"QLSS250221_w","id":42,"param":{}}|
