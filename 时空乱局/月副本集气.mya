@@ -1,0 +1,7 @@
+|#auto=true|
+|#send={"id":42,"cmd":"ASS250321_2","param":{"i":-1}}|
+|#send={"id":42,"cmd":"ASS250321_2","param":{"i":2}}|
+|#send={"id":42,"cmd":"74_1","param":{"eventId":44916}}|
+|#send={"id":15,"cmd":"54_22","param":{"type":99,"handler":"ASS250321"}}|
+|#time=15000|
+|#send={"id":13,"cmd":"1212","param":{}}|
