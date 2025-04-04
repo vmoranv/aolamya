@@ -1,0 +1,15 @@
+
+|#send={"cmd":"XYS250328_0","id":42,"param":{}}|
+|#send={"cmd":"74_1","id":42,"param":{"eventId":44935}}|
+|#send={"cmd":"AYSZM250328_2","id":42,"param":{"i":0}}|
+|#send={"cmd":"ALGT250328_0","id":42,"param":{}}|
+|#send={"cmd":"74_1","id":42,"param":{"eventId":40908}}|
+|#send={"cmd":"ALGT250328_1","id":42,"param":{"index":0}}|
+|#send={"cmd":"AYSZM250328_2","id":42,"param":{"i":1}}|
+|#send={"cmd":"AYSZM250328_2","id":42,"param":{"i":2}}|
+|#send={"cmd":"14_21","id":21,"param":{}}|
+|#send={"cmd":"RedPoint_0","id":42,"param":{"ids":[66,67]}}|
+|#send={"cmd":"OR220311_0","id":42,"param":{}}|
+|#send={"cmd":"AYSZM250328_3","id":42,"param":{}}|
+|#send={"cmd":"AYSZM250328_3","id":42,"param":{}}|
+|#send={"cmd":"AYSZM250328_3","id":42,"param":{}}|

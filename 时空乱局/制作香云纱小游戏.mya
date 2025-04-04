@@ -1,0 +1,11 @@
+
+|#send={"cmd":"74_1","id":42,"param":{"eventId":26363}}|
+|#send={"cmd":"XYS250328_2","id":42,"param":{"level":1}}|
+|#send={"cmd":"XYS250328_2","id":42,"param":{"level":2}}|
+|#send={"cmd":"XYS250328_2","id":42,"param":{"level":3}}|
+|#send={"cmd":"XYS250328_2","id":42,"param":{"level":4}}|
+|#send={"cmd":"XYS250328_2","id":42,"param":{"level":5}}|
+|#send={"cmd":"XYS250328_2","id":42,"param":{"level":6}}|
+|#send={"cmd":"XYS250328_2","id":42,"param":{"level":7}}|
+|#send={"cmd":"XYS250328_2","id":42,"param":{"level":8}}|
+|#send={"cmd":"XYS250328_2","id":42,"param":{"level":9}}|
