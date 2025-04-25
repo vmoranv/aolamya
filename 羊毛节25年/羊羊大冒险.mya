@@ -1,0 +1,3 @@
+|#send={"id":42,"param":{"ix":[0,1,2,3,4]},"cmd":"SHA250425_start"}|
+|#time=5100000|
+|#send={"id":42,"param":{},"cmd":"SHA250425_gain"}|

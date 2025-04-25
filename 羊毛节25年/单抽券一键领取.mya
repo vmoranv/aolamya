@@ -1,0 +1,15 @@
+|#send={"param":{"index":0,"tab":0},"id":42,"cmd":"AOGT250103_1"}|
+|#send={"param":{"index":1,"tab":0},"id":42,"cmd":"AOGT250103_1"}|
+|#send={"param":{"index":2,"tab":0},"id":42,"cmd":"AOGT250103_1"}|
+|#send={"param":{"index":3,"tab":0},"id":42,"cmd":"AOGT250103_1"}|
+|#send={"param":{"index":4,"tab":0},"id":42,"cmd":"AOGT250103_1"}|
+|#send={"param":{"index":5,"tab":0},"id":42,"cmd":"AOGT250103_1"}|
+|#send={"param":{"index":6,"tab":0},"id":42,"cmd":"AOGT250103_1"}|
+
+|#send={"param":{"index":0,"tab":1},"id":42,"cmd":"AOGT250103_1"}|
+|#send={"param":{"index":1,"tab":1},"id":42,"cmd":"AOGT250103_1"}|
+|#send={"param":{"index":2,"tab":1},"id":42,"cmd":"AOGT250103_1"}|
+|#send={"param":{"index":3,"tab":1},"id":42,"cmd":"AOGT250103_1"}|
+|#send={"param":{"index":4,"tab":1},"id":42,"cmd":"AOGT250103_1"}|
+|#send={"param":{"index":5,"tab":1},"id":42,"cmd":"AOGT250103_1"}|
+|#send={"param":{"index":6,"tab":1},"id":42,"cmd":"AOGT250103_1"}|

@@ -1,0 +1,8 @@
+|#send={"id":42,"param":{"price":0,"type":0},"cmd":"SHB220429_1"}|
+|#send={"id":42,"param":{"s":64},"cmd":"SHB220429_2"}|
+|#send={"param":{"index":0},"id":42,"cmd":"SHB220429_3"}|
+|#send={"param":{"index":1},"id":42,"cmd":"SHB220429_3"}|
+|#send={"param":{"index":2},"id":42,"cmd":"SHB220429_3"}|
+|#send={"param":{"index":3},"id":42,"cmd":"SHB220429_3"}|
+|#send={"param":{"index":4},"id":42,"cmd":"SHB220429_3"}|
+|#send={"param":{"index":5},"id":42,"cmd":"SHB220429_3"}|
