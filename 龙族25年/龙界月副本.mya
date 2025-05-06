@@ -1,6 +1,12 @@
 |#auto=true|
 |#send={"cmd":"54_22","id":15,"param":{"handler":"ADSV221014","type":99,"i":0}}|
 |#time=5000|
+|#send={"cmd":"54_22","id":15,"param":{"handler":"ADSV221014","type":99,"i":1}}|
+|#time=5000|
+|#send={"cmd":"54_22","id":15,"param":{"handler":"ADSV221014","type":99,"i":2}}|
+|#time=5000|
+|#send={"cmd":"54_22","id":15,"param":{"handler":"ADSV221014","type":99,"i":3}}|
+|#time=5000|
 |#send={"cmd":"ADSV221014_1","id":42,"param":{"i":0}}|
 |#send={"cmd":"ADSV221014_5","id":42,"param":{"i":0}}|
 |#send={"cmd":"ADSV221014_5","id":42,"param":{"i":1}}|
