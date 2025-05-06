@@ -35,3 +35,9 @@
 |#send={"param":{"index":1},"id":42,"cmd":"SDW220429_3"}|
 |#send={"param":{"index":1},"id":42,"cmd":"SDW220429_1"}|
 |#send={"param":{"index":0},"id":42,"cmd":"SDW220429_1"}|
+
+|#send={"id":42,"cmd":"SDW220429_4","param":{"index":0}}|
+|#send={"id":42,"cmd":"SDW220429_4","param":{"index":1}}|
+|#send={"id":42,"cmd":"SDW220429_4","param":{"index":2}}|
+|#send={"id":42,"cmd":"SDW220429_4","param":{"index":3}}|
+|#send={"id":42,"cmd":"SDW220429_4","param":{"index":4}}|
