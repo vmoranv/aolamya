@@ -1,0 +1,2 @@
+|#send={"id":42,"param":{"index":0,"ci":1},"cmd":"ELA250704_cb"}|
+|#send={"id":42,"param":{"ci":1},"cmd":"ELA250704_start"}|

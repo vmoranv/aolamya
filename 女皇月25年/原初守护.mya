@@ -1,0 +1,4 @@
+|#auto=true|
+|#send={"id":15,"cmd":"54_22","param":{"index":0,"handler":"DMB220513","t":0,"type":99}}|
+|#time=5000|
+|#send={"id":42,"cmd":"DMB220513_panel","param":{}}|
