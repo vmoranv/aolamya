@@ -1,0 +1,8 @@
+|#send={"id":42,"cmd":"CommonMatch_m","param":{"mt":86}}|
+|#time=30000|
+|#time=30000|
+|#send={"id":42,"cmd":"ADG250808_2","param":{"gi":660609}}|
+|#time=30000|
+|#send={"id":42,"cmd":"ADG250808_2","param":{"gi":660609}}|
+|#time=30000|
+|#send={"id":42,"cmd":"ADG250808_0","param":{}}
