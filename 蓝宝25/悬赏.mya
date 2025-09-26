@@ -196,3 +196,8 @@
 
 |#send={"id":15,"param":{"raceId":153,"v":1,"sw":true,"id":-1,"tp":null,"level":-1},"cmd":"54_2"}|
 |#time=3000|
+
+|#send={"id":42,"param":{"idx":0,"petId":-1},"cmd":"RT241129_3"}|
+|#send={"id":42,"param":{"idx":1,"petId":-1},"cmd":"RT241129_3"}|
+|#send={"id":42,"param":{"idx":2,"petId":-1},"cmd":"RT241129_3"}|
+|#send={"id":42,"param":{"idx":3,"petId":-1},"cmd":"RT241129_3"}|
